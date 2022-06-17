@@ -3,3 +3,13 @@ Mathematical Theory of Bayesian Staitistics for Unknwon Information Source
 by Sumio Watanabe
 
 https://arxiv.org/abs/2206.05630
+
+This directry introduces softwares written by MATLAB used in the above paper. 
+
+1. Generalization loss of matrix factorization and its estimators. Cross Validation, WAIC, 
+adjusted cross validation, hold-out cross validation, AIC, and DIC.
+
+2. Free energy of matrix factorization and its approximations. Asymptotics, BIC, and WBIC.
+
+3. Prior oprimizartion of polynomial regression. Cross validation, WAIC, austed cross validation,
+and the free energy. 
