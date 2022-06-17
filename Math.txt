@@ -1,8 +1,10 @@
-Mathematical Theory of Bayesian Staitistics for Unknwon Information Source
 
+Mathematical Theory of Bayesian Staitistics for Unknwon Information Source
 by Sumio Watanabe
 
 https://arxiv.org/abs/2206.05630
+
+-------------------------------------------------------------------------
 
 This directry introduces softwares written by MATLAB used in the above paper. 
 
