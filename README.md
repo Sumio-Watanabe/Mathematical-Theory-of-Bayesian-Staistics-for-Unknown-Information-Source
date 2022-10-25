@@ -1,1 +1,1 @@
-# Mathematical-Theory-of-Bayesian-Staistics-for-Unknown-Information-Source
+# Mathematical-Theory-of-Bayesian-Statistics-for-Unknown-Information-Source
